@@ -1,0 +1,5 @@
+{
+    "Address": "0.0.0.0:2222",
+    "PrivateKeyPath": "id_rsa",
+    "BinPath": "./hello.lua"
+}
